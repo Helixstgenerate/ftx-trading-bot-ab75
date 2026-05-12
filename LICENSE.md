@@ -1,4 +1,4 @@
-# 
+# exclusive ftx trading bot | stop-loss + order-book-analysis offers the most advanced ftx trading bot, with stop-loss and order-book-analysis. Ideal for professional traders and
 
 
 
